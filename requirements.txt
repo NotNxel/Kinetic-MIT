@@ -1,0 +1,14 @@
+# --- Step 1 (implemented now) ---
+requests>=2.31
+pandas>=2.0
+pyarrow>=14.0
+
+pyproj>=3.6
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.8
+
+# --- Not needed (not used by any step) ---
+# geopandas>=0.14
+# shapely>=2.0
+# scikit-learn>=1.3
